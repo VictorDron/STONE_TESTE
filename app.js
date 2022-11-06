@@ -3,7 +3,7 @@ function find () {
     let capitalbase = document.getElementById('input1').value;
     let tipo = document.getElementById('input2').value;
     let negocio = document.getElementById('input3').value;
-    
+    let price = document.getElementById('premio');
 
         switch (negocio) {
             case 'comercio':
@@ -14,6 +14,7 @@ function find () {
                         if (capitalbase == 100000){
     
                             console.log('40,69');
+                            price.innerText='40,69';
                         }
                         if (capitalbase == 200000){
     
