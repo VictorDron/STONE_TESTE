@@ -3,6 +3,8 @@ function find () {
     let capitalbase = document.getElementById('input1').value;
     let tipo = document.getElementById('input2').value;
     let negocio = document.getElementById('input3').value;
+    let kk = document.getElementById('input4').value;
+    console.log(kk);
 
         switch (negocio) {
             case 'comercio':
