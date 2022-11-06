@@ -149,30 +149,37 @@ function find () {
                         if (capitalbase == 400000){
     
                             console.log('67,86');
+                            price.innerText='R$'+' '+'67,86';
                         }
                         if (capitalbase == 500000){
     
                             console.log('83,89');
+                            price.innerText='R$'+' '+'83,89';
                         }
                         if (capitalbase == 600000){
     
                             console.log('94,32');
+                            price.innerText='R$'+' '+'94,32';
                         }
                         if (capitalbase == 700000){
     
                             console.log('104,75');
+                            price.innerText='R$'+' '+'104,75';
                         }
                         if (capitalbase == 800000){
     
                             console.log('115,18');
+                            price.innerText='R$'+' '+'115,18';
                         }
                         if (capitalbase == 900000){
     
                             console.log('125,61');
+                            price.innerText='R$'+' '+'125,61';
                         }
                         if (capitalbase == 1000000){
     
                             console.log('136,03');
+                            price.innerText='R$'+' '+'136,03';
                         }
                         
                         break;
@@ -182,42 +189,52 @@ function find () {
                         if (capitalbase == 100000){
     
                             console.log('39,86');
+                            price.innerText='R$'+' '+'39,86';
                         }
                         if (capitalbase == 200000){
     
                             console.log('53,76');
+                            price.innerText='R$'+' '+'53,76';
                         }
                         if (capitalbase == 300000){
     
                             console.log('78,73');
+                            price.innerText='R$'+' '+'78,73';
                         }
                         if (capitalbase == 400000){
     
                             console.log('103,67');
+                            price.innerText='R$'+' '+'103,67';
                         }
                         if (capitalbase == 500000){
     
                             console.log('128,64');
+                            price.innerText='R$'+' '+'128,64';
                         }
                         if (capitalbase == 600000){
     
                             console.log('148,05');
+                            price.innerText='R$'+' '+'148,05';
                         }
                         if (capitalbase == 700000){
     
                             console.log('167,43');
+                            price.innerText='R$'+' '+'167,43';
                         }
                         if (capitalbase == 800000){
     
                             console.log('186,83');
+                            price.innerText='R$'+' '+'186,83';
                         }
                         if (capitalbase == 900000){
     
                             console.log('206,20');
+                            price.innerText='R$'+' '+'206,20';
                         }
                         if (capitalbase == 1000000){
     
                             console.log('225,59');
+                            price.innerText='R$'+' '+'225,59';
                         }
             
                         break;
