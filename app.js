@@ -14,7 +14,9 @@ function find () {
                         if (capitalbase == 100000){
     
                             console.log('40,69');
-                            price.innerText='40,69';
+                            price.innerText='R$'+' '+'40,69';
+                        }else{
+                            price.innerText='';
                         }
                         if (capitalbase == 200000){
     
