@@ -134,14 +134,17 @@ function find () {
                         if (capitalbase == 100000){
     
                             console.log('27,65');
+                            price.innerText='R$'+' '+'27,65';
                         }
                         if (capitalbase == 200000){
     
                             console.log('35,84');
+                            price.innerText='R$'+' '+'35,84';
                         }
                         if (capitalbase == 300000){
     
                             console.log('51,86');
+                            price.innerText='R$'+' '+'51,86';
                         }
                         if (capitalbase == 400000){
     
