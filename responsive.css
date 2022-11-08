@@ -3,7 +3,7 @@
     .img1{
     
         width: 100%;
-        height: 100px;
+        height: 200px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -19,6 +19,30 @@
         border-radius: 20px;
         background-color: white;
       
-      }
+    }
+    
+    .input{
+        
+        width: 100%;
+        height: 100%;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        
+    }
+
+    .entrada{
    
+        width: 50%;
+        height: 20%;
+        color: rgb(67, 167, 67);
+        border: 1px solid green;
+        border-radius: 10px;
+        margin-top: 1%;
+        text-align: center;
+        
+     }
+   
+
+     
 }
